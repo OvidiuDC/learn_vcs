@@ -1,4 +1,5 @@
 // learning VCS
+//learning to colaborate on Git repositories
 
 public class HelloWorld { 
 
